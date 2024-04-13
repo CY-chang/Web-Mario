@@ -92,4 +92,11 @@ scoreboard:
 
 # Firebase page link
 
-webmario-43382.firebaseapp.com
+[webmario-43382.firebaseapp.com](https://webmario-43382.firebaseapp.com)
+
+# Test account credentials
+
+To test the Mario game, you can use the following test account:
+
+- **Email:** a@g.com
+- **Password:** 111111
